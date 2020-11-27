@@ -19,4 +19,5 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 
 [1] Krasula, L., Narwaria, M., Fliegel, K., Le Callet, P. Preference of Experience in Image Tone-Mapping: Dataset and Framework for Objective Measures Comparison, IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 1, pp. 64 - 74, 2017.
+
 [2] http://markfairchild.org/HDR.html
